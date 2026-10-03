@@ -1,3 +1,5 @@
+// This literally just crashes on boot after compilation... At least for me. 
+
 #include "raylib.h"
 #include <vector>
 #include <deque>
