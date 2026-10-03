@@ -1,3 +1,5 @@
+// Ths one surprised me. This is an openCL based ray tracer that is supposed to make an apple. It doesn't really look like an apple, but it is GPU accelerated... however, I have heard that it did not work on my best friend's RX 6600, but it does on my 9070... so.
+
 #define CL_TARGET_OPENCL_VERSION 300
 #include <iostream>
 #include <vector>
