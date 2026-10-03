@@ -1,4 +1,4 @@
-// This literally just crashes on boot after compilation... At least for me. 
+// This is supposed to be a 3D snake game with an enemy CPU snake, but it literally just crashes on boot after compilation... At least for me. 
 
 #include "raylib.h"
 #include <vector>
